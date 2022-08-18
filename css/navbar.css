@@ -1,0 +1,42 @@
+.navbar {
+    width: 830px;
+    height: 96px;
+    backdrop-filter: blur(82px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a-nav {
+    margin: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 2.7px;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+}
+
+.a-nav:hover {
+    border-bottom: solid 3px #FFFFFF;
+}
+
+.nav-span {
+    font-weight: 700;
+}
+
+.nav {
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.middle-nav {
+    margin: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 2.7px;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-bottom: 25px;
+}
